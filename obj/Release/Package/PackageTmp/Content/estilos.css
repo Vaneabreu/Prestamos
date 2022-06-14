@@ -1,0 +1,192 @@
+﻿
+scrollbox {
+    overflow: scroll;
+    width: 210px;
+    height: 55%;
+    max-height: 200px;
+    margin: 50px auto;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+.box-content {
+    max-height: 265px;
+    overflow: scroll;
+}
+.scrolling-table-container {
+    /*height: 265px;*/
+    height: 55%;
+    overflow-y: scroll;
+    /*overflow-x: hidden;*/
+    white-space: initial;
+    /*style ="overflow: scroll; width: 100%; height: 85%;"*/
+}
+
+.img-loteria {
+    border-radius:100%; 
+    width:135px;
+    
+}
+.btn-loteria {
+    border-radius: 100%;
+    background-color: black;
+    border-color: #0d6efd;
+    width: 135px;
+    
+}
+.container-img {
+    display: flex;
+    flex-wrap:wrap;
+    align-content:center;
+    
+}
+.container-img-Lis {
+    margin: 10px;
+}
+
+.nav-MenuO {
+    display: none;
+}
+
+
+.pieDePantalla {
+    position: absolute;
+    bottom: 40px;
+    width: 100%;
+    height: 40px;
+    color: white;
+    padding:10px;
+    margin-bottom:auto;
+}
+html {
+    min-height: 100%;
+    position: relative;
+}
+
+body {
+    margin: 0;
+    margin-bottom: 40px;
+}
+
+footer {
+    background-color: black;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 40px;
+    color: white;
+}
+
+
+.container123 {
+    display: grid;
+    align-content:center
+}
+/****************Probando estilos*/
+.fs-m { font-size: 30pt}
+.fs-l {font-size: large;}
+.fs-xl {font-size: x-large;}
+
+.ticketImpri {
+    font-family: 'Courier New';
+    
+}
+.aling-T-R {
+    text-align-last: right;
+}
+
+.aling-T-C {
+    text-align-last: center;
+    font-size:20px;
+}
+
+.aling-T-L {
+    text-align-last: left;
+}
+
+.negrita-T {
+    color: black;
+    font-weight: bold;
+}
+
+.lineaSolida-T {
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+}
+
+.lineaPuntos-T {
+    border-width: 2px;
+    border-style: dashed;
+    border-color: black;
+    margin: 0px;
+ 
+}
+
+/*En uso******************************************/
+
+
+.dimension-Imprimir {
+    width: 143px;
+    background-color: gray;
+    align-items:start;
+}
+.Imprimir-R {
+    width: 143px;
+    background-color: gray;
+    align-content: end;
+    
+}
+.Imprimir-L {
+    width: 143px;
+    background-color: gray;
+    align-items: start;
+}
+.Imprimir-C {
+    width: 143px;
+    background-color: gray;
+    align-items: center;
+}
+
+
+@media screen and (max-width: 600px) {
+    .ocultar-div {
+        display: none;
+    }
+}
+@media screen and (max-width: 576px) {
+    .ocultar-div-sm {
+        display: none;
+    }
+}
+@media screen and (max-width: 768px) {
+    .ocultar-div-md {
+        display: none;
+    }
+}
+@media screen and (max-width: 992px) {
+    .ocultar-div-lg {
+        display: none;
+    }
+}
+@media screen and (max-width: 1200px) {
+    .ocultar-div-xl {
+        display: none;
+    }
+}
+@media screen and (max-width: 1400px) {
+    .ocultar-div-xxl {
+        display: none;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+

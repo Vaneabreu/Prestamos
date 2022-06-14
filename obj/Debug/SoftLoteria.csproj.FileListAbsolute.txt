@@ -1,0 +1,559 @@
+C:\Users\Lenovo\source\repos\SoftLoteria\bin\SoftLoteria.dll.config
+C:\Users\Lenovo\source\repos\SoftLoteria\bin\SoftLoteria.dll
+C:\Users\Lenovo\source\repos\SoftLoteria\bin\SoftLoteria.pdb
+C:\Users\Lenovo\source\repos\SoftLoteria\bin\roslyn\csc.exe
+C:\Users\Lenovo\source\repos\SoftLoteria\bin\roslyn\csc.exe.config
+C:\Users\Lenovo\source\repos\SoftLoteria\bin\roslyn\csc.rsp
+C:\Users\Lenovo\source\repos\SoftLoteria\bin\roslyn\csi.exe
+C:\Users\Lenovo\source\repos\SoftLoteria\bin\roslyn\csi.exe.config
+C:\Users\Lenovo\source\repos\SoftLoteria\bin\roslyn\csi.rsp
+C:\Users\Lenovo\source\repos\SoftLoteria\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lenovo\source\repos\SoftLoteria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lenovo\source\repos\SoftLoteria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lenovo\source\repos\SoftLoteria\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lenovo\source\repos\SoftLoteria\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lenovo\source\repos\SoftLoteria\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lenovo\source\repos\SoftLoteria\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lenovo\source\repos\SoftLoteria\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lenovo\source\repos\SoftLoteria\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lenovo\source\repos\SoftLoteria\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Lenovo\source\repos\SoftLoteria\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lenovo\source\repos\SoftLoteria\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Lenovo\source\repos\SoftLoteria\bin\roslyn\System.AppContext.dll
+C:\Users\Lenovo\source\repos\SoftLoteria\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lenovo\source\repos\SoftLoteria\bin\roslyn\System.Console.dll
+C:\Users\Lenovo\source\repos\SoftLoteria\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lenovo\source\repos\SoftLoteria\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Lenovo\source\repos\SoftLoteria\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lenovo\source\repos\SoftLoteria\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Lenovo\source\repos\SoftLoteria\bin\roslyn\System.IO.Compression.dll
+C:\Users\Lenovo\source\repos\SoftLoteria\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Lenovo\source\repos\SoftLoteria\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lenovo\source\repos\SoftLoteria\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lenovo\source\repos\SoftLoteria\bin\roslyn\System.Net.Http.dll
+C:\Users\Lenovo\source\repos\SoftLoteria\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Lenovo\source\repos\SoftLoteria\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lenovo\source\repos\SoftLoteria\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Lenovo\source\repos\SoftLoteria\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Lenovo\source\repos\SoftLoteria\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Lenovo\source\repos\SoftLoteria\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Lenovo\source\repos\SoftLoteria\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Lenovo\source\repos\SoftLoteria\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Lenovo\source\repos\SoftLoteria\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Lenovo\source\repos\SoftLoteria\bin\roslyn\System.ValueTuple.dll
+C:\Users\Lenovo\source\repos\SoftLoteria\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Lenovo\source\repos\SoftLoteria\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Lenovo\source\repos\SoftLoteria\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Lenovo\source\repos\SoftLoteria\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Lenovo\source\repos\SoftLoteria\bin\roslyn\vbc.exe
+C:\Users\Lenovo\source\repos\SoftLoteria\bin\roslyn\vbc.exe.config
+C:\Users\Lenovo\source\repos\SoftLoteria\bin\roslyn\vbc.rsp
+C:\Users\Lenovo\source\repos\SoftLoteria\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lenovo\source\repos\SoftLoteria\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lenovo\source\repos\SoftLoteria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lenovo\source\repos\SoftLoteria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lenovo\source\repos\SoftLoteria\obj\Debug\SoftLoteria.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\SoftLoteria\obj\Debug\SoftLoteria.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\SoftLoteria\obj\Debug\SoftLoteria.dll
+C:\Users\Lenovo\source\repos\SoftLoteria\obj\Debug\SoftLoteria.pdb
+C:\Users\Lenovo\source\repos\SoftLoteria\bin\Antlr3.Runtime.dll
+C:\Users\Lenovo\source\repos\SoftLoteria\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lenovo\source\repos\SoftLoteria\bin\Newtonsoft.Json.dll
+C:\Users\Lenovo\source\repos\SoftLoteria\bin\System.Web.Helpers.dll
+C:\Users\Lenovo\source\repos\SoftLoteria\bin\System.Web.Mvc.dll
+C:\Users\Lenovo\source\repos\SoftLoteria\bin\System.Web.Optimization.dll
+C:\Users\Lenovo\source\repos\SoftLoteria\bin\System.Web.Razor.dll
+C:\Users\Lenovo\source\repos\SoftLoteria\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Lenovo\source\repos\SoftLoteria\bin\System.Web.WebPages.dll
+C:\Users\Lenovo\source\repos\SoftLoteria\bin\System.Web.WebPages.Razor.dll
+C:\Users\Lenovo\source\repos\SoftLoteria\bin\WebGrease.dll
+C:\Users\Lenovo\source\repos\SoftLoteria\bin\Antlr3.Runtime.pdb
+C:\Users\Lenovo\source\repos\SoftLoteria\bin\Newtonsoft.Json.xml
+C:\Users\Lenovo\source\repos\SoftLoteria\bin\System.Web.Helpers.xml
+C:\Users\Lenovo\source\repos\SoftLoteria\bin\System.Web.Mvc.xml
+C:\Users\Lenovo\source\repos\SoftLoteria\bin\System.Web.Optimization.xml
+C:\Users\Lenovo\source\repos\SoftLoteria\bin\System.Web.Razor.xml
+C:\Users\Lenovo\source\repos\SoftLoteria\bin\System.Web.WebPages.xml
+C:\Users\Lenovo\source\repos\SoftLoteria\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Lenovo\source\repos\SoftLoteria\bin\System.Web.WebPages.Razor.xml
+C:\Gsoft\Proyectos\SoftLoteria\bin\SoftLoteria.dll.config
+C:\Gsoft\Proyectos\SoftLoteria\bin\SoftLoteria.dll
+C:\Gsoft\Proyectos\SoftLoteria\bin\SoftLoteria.pdb
+C:\Gsoft\Proyectos\SoftLoteria\bin\roslyn\csc.exe
+C:\Gsoft\Proyectos\SoftLoteria\bin\roslyn\csc.exe.config
+C:\Gsoft\Proyectos\SoftLoteria\bin\roslyn\csc.rsp
+C:\Gsoft\Proyectos\SoftLoteria\bin\roslyn\csi.exe
+C:\Gsoft\Proyectos\SoftLoteria\bin\roslyn\csi.exe.config
+C:\Gsoft\Proyectos\SoftLoteria\bin\roslyn\csi.rsp
+C:\Gsoft\Proyectos\SoftLoteria\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Gsoft\Proyectos\SoftLoteria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Gsoft\Proyectos\SoftLoteria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Gsoft\Proyectos\SoftLoteria\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Gsoft\Proyectos\SoftLoteria\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Gsoft\Proyectos\SoftLoteria\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Gsoft\Proyectos\SoftLoteria\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Gsoft\Proyectos\SoftLoteria\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Gsoft\Proyectos\SoftLoteria\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Gsoft\Proyectos\SoftLoteria\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Gsoft\Proyectos\SoftLoteria\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Gsoft\Proyectos\SoftLoteria\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Gsoft\Proyectos\SoftLoteria\bin\roslyn\System.AppContext.dll
+C:\Gsoft\Proyectos\SoftLoteria\bin\roslyn\System.Collections.Immutable.dll
+C:\Gsoft\Proyectos\SoftLoteria\bin\roslyn\System.Console.dll
+C:\Gsoft\Proyectos\SoftLoteria\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Gsoft\Proyectos\SoftLoteria\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Gsoft\Proyectos\SoftLoteria\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Gsoft\Proyectos\SoftLoteria\bin\roslyn\System.Globalization.Calendars.dll
+C:\Gsoft\Proyectos\SoftLoteria\bin\roslyn\System.IO.Compression.dll
+C:\Gsoft\Proyectos\SoftLoteria\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Gsoft\Proyectos\SoftLoteria\bin\roslyn\System.IO.FileSystem.dll
+C:\Gsoft\Proyectos\SoftLoteria\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Gsoft\Proyectos\SoftLoteria\bin\roslyn\System.Net.Http.dll
+C:\Gsoft\Proyectos\SoftLoteria\bin\roslyn\System.Net.Sockets.dll
+C:\Gsoft\Proyectos\SoftLoteria\bin\roslyn\System.Reflection.Metadata.dll
+C:\Gsoft\Proyectos\SoftLoteria\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Gsoft\Proyectos\SoftLoteria\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Gsoft\Proyectos\SoftLoteria\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Gsoft\Proyectos\SoftLoteria\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Gsoft\Proyectos\SoftLoteria\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Gsoft\Proyectos\SoftLoteria\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Gsoft\Proyectos\SoftLoteria\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Gsoft\Proyectos\SoftLoteria\bin\roslyn\System.ValueTuple.dll
+C:\Gsoft\Proyectos\SoftLoteria\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Gsoft\Proyectos\SoftLoteria\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Gsoft\Proyectos\SoftLoteria\bin\roslyn\System.Xml.XPath.dll
+C:\Gsoft\Proyectos\SoftLoteria\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Gsoft\Proyectos\SoftLoteria\bin\roslyn\vbc.exe
+C:\Gsoft\Proyectos\SoftLoteria\bin\roslyn\vbc.exe.config
+C:\Gsoft\Proyectos\SoftLoteria\bin\roslyn\vbc.rsp
+C:\Gsoft\Proyectos\SoftLoteria\bin\roslyn\VBCSCompiler.exe
+C:\Gsoft\Proyectos\SoftLoteria\bin\roslyn\VBCSCompiler.exe.config
+C:\Gsoft\Proyectos\SoftLoteria\bin\Antlr3.Runtime.dll
+C:\Gsoft\Proyectos\SoftLoteria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Gsoft\Proyectos\SoftLoteria\bin\Microsoft.Web.Infrastructure.dll
+C:\Gsoft\Proyectos\SoftLoteria\bin\Newtonsoft.Json.dll
+C:\Gsoft\Proyectos\SoftLoteria\bin\System.Web.Helpers.dll
+C:\Gsoft\Proyectos\SoftLoteria\bin\System.Web.Mvc.dll
+C:\Gsoft\Proyectos\SoftLoteria\bin\System.Web.Optimization.dll
+C:\Gsoft\Proyectos\SoftLoteria\bin\System.Web.Razor.dll
+C:\Gsoft\Proyectos\SoftLoteria\bin\System.Web.WebPages.Deployment.dll
+C:\Gsoft\Proyectos\SoftLoteria\bin\System.Web.WebPages.dll
+C:\Gsoft\Proyectos\SoftLoteria\bin\System.Web.WebPages.Razor.dll
+C:\Gsoft\Proyectos\SoftLoteria\bin\WebGrease.dll
+C:\Gsoft\Proyectos\SoftLoteria\bin\Antlr3.Runtime.pdb
+C:\Gsoft\Proyectos\SoftLoteria\bin\Newtonsoft.Json.xml
+C:\Gsoft\Proyectos\SoftLoteria\bin\System.Web.Helpers.xml
+C:\Gsoft\Proyectos\SoftLoteria\bin\System.Web.Mvc.xml
+C:\Gsoft\Proyectos\SoftLoteria\bin\System.Web.Optimization.xml
+C:\Gsoft\Proyectos\SoftLoteria\bin\System.Web.Razor.xml
+C:\Gsoft\Proyectos\SoftLoteria\bin\System.Web.WebPages.xml
+C:\Gsoft\Proyectos\SoftLoteria\bin\System.Web.WebPages.Deployment.xml
+C:\Gsoft\Proyectos\SoftLoteria\bin\System.Web.WebPages.Razor.xml
+C:\Gsoft\Proyectos\SoftLoteria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Gsoft\Proyectos\SoftLoteria\obj\Debug\SoftLoteria.csprojAssemblyReference.cache
+C:\Gsoft\Proyectos\SoftLoteria\obj\Debug\SoftLoteria.csproj.CoreCompileInputs.cache
+C:\Gsoft\Proyectos\SoftLoteria\obj\Debug\SoftLoteria.csproj.CopyComplete
+C:\Gsoft\Proyectos\SoftLoteria\obj\Debug\SoftLoteria.dll
+C:\Gsoft\Proyectos\SoftLoteria\obj\Debug\SoftLoteria.pdb
+C:\Users\Lenovo\source\Workspaces\SoftLoteria\bin\SoftLoteria.dll.config
+C:\Users\Lenovo\source\Workspaces\SoftLoteria\bin\SoftLoteria.dll
+C:\Users\Lenovo\source\Workspaces\SoftLoteria\bin\SoftLoteria.pdb
+C:\Users\Lenovo\source\Workspaces\SoftLoteria\bin\roslyn\csc.exe
+C:\Users\Lenovo\source\Workspaces\SoftLoteria\bin\roslyn\csc.exe.config
+C:\Users\Lenovo\source\Workspaces\SoftLoteria\bin\roslyn\csc.rsp
+C:\Users\Lenovo\source\Workspaces\SoftLoteria\bin\roslyn\csi.exe
+C:\Users\Lenovo\source\Workspaces\SoftLoteria\bin\roslyn\csi.exe.config
+C:\Users\Lenovo\source\Workspaces\SoftLoteria\bin\roslyn\csi.rsp
+C:\Users\Lenovo\source\Workspaces\SoftLoteria\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lenovo\source\Workspaces\SoftLoteria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lenovo\source\Workspaces\SoftLoteria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lenovo\source\Workspaces\SoftLoteria\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lenovo\source\Workspaces\SoftLoteria\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lenovo\source\Workspaces\SoftLoteria\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lenovo\source\Workspaces\SoftLoteria\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lenovo\source\Workspaces\SoftLoteria\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lenovo\source\Workspaces\SoftLoteria\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lenovo\source\Workspaces\SoftLoteria\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Lenovo\source\Workspaces\SoftLoteria\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lenovo\source\Workspaces\SoftLoteria\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Lenovo\source\Workspaces\SoftLoteria\bin\roslyn\System.AppContext.dll
+C:\Users\Lenovo\source\Workspaces\SoftLoteria\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lenovo\source\Workspaces\SoftLoteria\bin\roslyn\System.Console.dll
+C:\Users\Lenovo\source\Workspaces\SoftLoteria\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lenovo\source\Workspaces\SoftLoteria\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Lenovo\source\Workspaces\SoftLoteria\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lenovo\source\Workspaces\SoftLoteria\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Lenovo\source\Workspaces\SoftLoteria\bin\roslyn\System.IO.Compression.dll
+C:\Users\Lenovo\source\Workspaces\SoftLoteria\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Lenovo\source\Workspaces\SoftLoteria\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lenovo\source\Workspaces\SoftLoteria\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lenovo\source\Workspaces\SoftLoteria\bin\roslyn\System.Net.Http.dll
+C:\Users\Lenovo\source\Workspaces\SoftLoteria\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Lenovo\source\Workspaces\SoftLoteria\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lenovo\source\Workspaces\SoftLoteria\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Lenovo\source\Workspaces\SoftLoteria\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Lenovo\source\Workspaces\SoftLoteria\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Lenovo\source\Workspaces\SoftLoteria\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Lenovo\source\Workspaces\SoftLoteria\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Lenovo\source\Workspaces\SoftLoteria\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Lenovo\source\Workspaces\SoftLoteria\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Lenovo\source\Workspaces\SoftLoteria\bin\roslyn\System.ValueTuple.dll
+C:\Users\Lenovo\source\Workspaces\SoftLoteria\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Lenovo\source\Workspaces\SoftLoteria\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Lenovo\source\Workspaces\SoftLoteria\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Lenovo\source\Workspaces\SoftLoteria\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Lenovo\source\Workspaces\SoftLoteria\bin\roslyn\vbc.exe
+C:\Users\Lenovo\source\Workspaces\SoftLoteria\bin\roslyn\vbc.exe.config
+C:\Users\Lenovo\source\Workspaces\SoftLoteria\bin\roslyn\vbc.rsp
+C:\Users\Lenovo\source\Workspaces\SoftLoteria\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lenovo\source\Workspaces\SoftLoteria\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lenovo\source\Workspaces\SoftLoteria\bin\Antlr3.Runtime.dll
+C:\Users\Lenovo\source\Workspaces\SoftLoteria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lenovo\source\Workspaces\SoftLoteria\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lenovo\source\Workspaces\SoftLoteria\bin\Newtonsoft.Json.dll
+C:\Users\Lenovo\source\Workspaces\SoftLoteria\bin\System.Web.Helpers.dll
+C:\Users\Lenovo\source\Workspaces\SoftLoteria\bin\System.Web.Mvc.dll
+C:\Users\Lenovo\source\Workspaces\SoftLoteria\bin\System.Web.Optimization.dll
+C:\Users\Lenovo\source\Workspaces\SoftLoteria\bin\System.Web.Razor.dll
+C:\Users\Lenovo\source\Workspaces\SoftLoteria\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Lenovo\source\Workspaces\SoftLoteria\bin\System.Web.WebPages.dll
+C:\Users\Lenovo\source\Workspaces\SoftLoteria\bin\System.Web.WebPages.Razor.dll
+C:\Users\Lenovo\source\Workspaces\SoftLoteria\bin\WebGrease.dll
+C:\Users\Lenovo\source\Workspaces\SoftLoteria\bin\Antlr3.Runtime.pdb
+C:\Users\Lenovo\source\Workspaces\SoftLoteria\bin\Newtonsoft.Json.xml
+C:\Users\Lenovo\source\Workspaces\SoftLoteria\bin\System.Web.Helpers.xml
+C:\Users\Lenovo\source\Workspaces\SoftLoteria\bin\System.Web.Mvc.xml
+C:\Users\Lenovo\source\Workspaces\SoftLoteria\bin\System.Web.Optimization.xml
+C:\Users\Lenovo\source\Workspaces\SoftLoteria\bin\System.Web.Razor.xml
+C:\Users\Lenovo\source\Workspaces\SoftLoteria\bin\System.Web.WebPages.xml
+C:\Users\Lenovo\source\Workspaces\SoftLoteria\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Lenovo\source\Workspaces\SoftLoteria\bin\System.Web.WebPages.Razor.xml
+C:\Users\Lenovo\source\Workspaces\SoftLoteria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lenovo\source\Workspaces\SoftLoteria\obj\Debug\SoftLoteria.csproj.CopyComplete
+C:\Users\Lenovo\source\Workspaces\SoftLoteria\obj\Debug\SoftLoteria.dll
+C:\Users\Lenovo\source\Workspaces\SoftLoteria\obj\Debug\SoftLoteria.pdb
+C:\Users\Lenovo\source\Workspaces\SoftLoteria\bin\MessagingToolkit.QRCode.dll
+C:\Users\Lenovo\source\Workspaces\SoftLoteria\bin\QRCoder.dll
+C:\Users\junior\Desktop\SoftLoteria\bin\SoftLoteria.dll.config
+C:\Users\junior\Desktop\SoftLoteria\bin\SoftLoteria.dll
+C:\Users\junior\Desktop\SoftLoteria\bin\SoftLoteria.pdb
+C:\Users\junior\Desktop\SoftLoteria\bin\roslyn\csc.exe
+C:\Users\junior\Desktop\SoftLoteria\bin\roslyn\csc.exe.config
+C:\Users\junior\Desktop\SoftLoteria\bin\roslyn\csc.rsp
+C:\Users\junior\Desktop\SoftLoteria\bin\roslyn\csi.exe
+C:\Users\junior\Desktop\SoftLoteria\bin\roslyn\csi.exe.config
+C:\Users\junior\Desktop\SoftLoteria\bin\roslyn\csi.rsp
+C:\Users\junior\Desktop\SoftLoteria\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\junior\Desktop\SoftLoteria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\junior\Desktop\SoftLoteria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\junior\Desktop\SoftLoteria\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\junior\Desktop\SoftLoteria\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\junior\Desktop\SoftLoteria\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\junior\Desktop\SoftLoteria\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\junior\Desktop\SoftLoteria\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\junior\Desktop\SoftLoteria\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\junior\Desktop\SoftLoteria\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\junior\Desktop\SoftLoteria\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\junior\Desktop\SoftLoteria\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\junior\Desktop\SoftLoteria\bin\roslyn\System.AppContext.dll
+C:\Users\junior\Desktop\SoftLoteria\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\junior\Desktop\SoftLoteria\bin\roslyn\System.Console.dll
+C:\Users\junior\Desktop\SoftLoteria\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\junior\Desktop\SoftLoteria\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\junior\Desktop\SoftLoteria\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\junior\Desktop\SoftLoteria\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\junior\Desktop\SoftLoteria\bin\roslyn\System.IO.Compression.dll
+C:\Users\junior\Desktop\SoftLoteria\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\junior\Desktop\SoftLoteria\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\junior\Desktop\SoftLoteria\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\junior\Desktop\SoftLoteria\bin\roslyn\System.Net.Http.dll
+C:\Users\junior\Desktop\SoftLoteria\bin\roslyn\System.Net.Sockets.dll
+C:\Users\junior\Desktop\SoftLoteria\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\junior\Desktop\SoftLoteria\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\junior\Desktop\SoftLoteria\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\junior\Desktop\SoftLoteria\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\junior\Desktop\SoftLoteria\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\junior\Desktop\SoftLoteria\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\junior\Desktop\SoftLoteria\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\junior\Desktop\SoftLoteria\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\junior\Desktop\SoftLoteria\bin\roslyn\System.ValueTuple.dll
+C:\Users\junior\Desktop\SoftLoteria\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\junior\Desktop\SoftLoteria\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\junior\Desktop\SoftLoteria\bin\roslyn\System.Xml.XPath.dll
+C:\Users\junior\Desktop\SoftLoteria\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\junior\Desktop\SoftLoteria\bin\roslyn\vbc.exe
+C:\Users\junior\Desktop\SoftLoteria\bin\roslyn\vbc.exe.config
+C:\Users\junior\Desktop\SoftLoteria\bin\roslyn\vbc.rsp
+C:\Users\junior\Desktop\SoftLoteria\bin\roslyn\VBCSCompiler.exe
+C:\Users\junior\Desktop\SoftLoteria\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\junior\Desktop\SoftLoteria\bin\Antlr3.Runtime.dll
+C:\Users\junior\Desktop\SoftLoteria\bin\MessagingToolkit.QRCode.dll
+C:\Users\junior\Desktop\SoftLoteria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\junior\Desktop\SoftLoteria\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\junior\Desktop\SoftLoteria\bin\Newtonsoft.Json.dll
+C:\Users\junior\Desktop\SoftLoteria\bin\QRCoder.dll
+C:\Users\junior\Desktop\SoftLoteria\bin\System.Web.Helpers.dll
+C:\Users\junior\Desktop\SoftLoteria\bin\System.Web.Mvc.dll
+C:\Users\junior\Desktop\SoftLoteria\bin\System.Web.Optimization.dll
+C:\Users\junior\Desktop\SoftLoteria\bin\System.Web.Razor.dll
+C:\Users\junior\Desktop\SoftLoteria\bin\System.Web.WebPages.Deployment.dll
+C:\Users\junior\Desktop\SoftLoteria\bin\System.Web.WebPages.dll
+C:\Users\junior\Desktop\SoftLoteria\bin\System.Web.WebPages.Razor.dll
+C:\Users\junior\Desktop\SoftLoteria\bin\WebGrease.dll
+C:\Users\junior\Desktop\SoftLoteria\bin\Antlr3.Runtime.pdb
+C:\Users\junior\Desktop\SoftLoteria\bin\Newtonsoft.Json.xml
+C:\Users\junior\Desktop\SoftLoteria\bin\System.Web.Helpers.xml
+C:\Users\junior\Desktop\SoftLoteria\bin\System.Web.Mvc.xml
+C:\Users\junior\Desktop\SoftLoteria\bin\System.Web.Optimization.xml
+C:\Users\junior\Desktop\SoftLoteria\bin\System.Web.Razor.xml
+C:\Users\junior\Desktop\SoftLoteria\bin\System.Web.WebPages.xml
+C:\Users\junior\Desktop\SoftLoteria\bin\System.Web.WebPages.Deployment.xml
+C:\Users\junior\Desktop\SoftLoteria\bin\System.Web.WebPages.Razor.xml
+C:\Users\junior\Desktop\SoftLoteria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\junior\Desktop\SoftLoteria\obj\Debug\SoftLoteria.csproj.AssemblyReference.cache
+C:\Users\junior\Desktop\SoftLoteria\obj\Debug\SoftLoteria.csproj.CoreCompileInputs.cache
+C:\Users\junior\Desktop\SoftLoteria\obj\Debug\SoftLoteria.csproj.CopyComplete
+C:\Users\junior\Desktop\SoftLoteria\obj\Debug\SoftLoteria.dll
+C:\Users\junior\Desktop\SoftLoteria\obj\Debug\SoftLoteria.pdb
+C:\Users\Lenovo\source\Workspaces\SoftLoteria\obj\Debug\SoftLoteria.csprojAssemblyReference.cache
+C:\HemaxviSoft\Proyectos\SoftLoteria\bin\SoftLoteria.dll.config
+C:\HemaxviSoft\Proyectos\SoftLoteria\bin\SoftLoteria.dll
+C:\HemaxviSoft\Proyectos\SoftLoteria\bin\SoftLoteria.pdb
+C:\HemaxviSoft\Proyectos\SoftLoteria\bin\roslyn\csc.exe
+C:\HemaxviSoft\Proyectos\SoftLoteria\bin\roslyn\csc.exe.config
+C:\HemaxviSoft\Proyectos\SoftLoteria\bin\roslyn\csc.rsp
+C:\HemaxviSoft\Proyectos\SoftLoteria\bin\roslyn\csi.exe
+C:\HemaxviSoft\Proyectos\SoftLoteria\bin\roslyn\csi.exe.config
+C:\HemaxviSoft\Proyectos\SoftLoteria\bin\roslyn\csi.rsp
+C:\HemaxviSoft\Proyectos\SoftLoteria\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\HemaxviSoft\Proyectos\SoftLoteria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\HemaxviSoft\Proyectos\SoftLoteria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\HemaxviSoft\Proyectos\SoftLoteria\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\HemaxviSoft\Proyectos\SoftLoteria\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\HemaxviSoft\Proyectos\SoftLoteria\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\HemaxviSoft\Proyectos\SoftLoteria\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\HemaxviSoft\Proyectos\SoftLoteria\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\HemaxviSoft\Proyectos\SoftLoteria\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\HemaxviSoft\Proyectos\SoftLoteria\bin\roslyn\Microsoft.Managed.Core.targets
+C:\HemaxviSoft\Proyectos\SoftLoteria\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\HemaxviSoft\Proyectos\SoftLoteria\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\HemaxviSoft\Proyectos\SoftLoteria\bin\roslyn\System.AppContext.dll
+C:\HemaxviSoft\Proyectos\SoftLoteria\bin\roslyn\System.Collections.Immutable.dll
+C:\HemaxviSoft\Proyectos\SoftLoteria\bin\roslyn\System.Console.dll
+C:\HemaxviSoft\Proyectos\SoftLoteria\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\HemaxviSoft\Proyectos\SoftLoteria\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\HemaxviSoft\Proyectos\SoftLoteria\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\HemaxviSoft\Proyectos\SoftLoteria\bin\roslyn\System.Globalization.Calendars.dll
+C:\HemaxviSoft\Proyectos\SoftLoteria\bin\roslyn\System.IO.Compression.dll
+C:\HemaxviSoft\Proyectos\SoftLoteria\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\HemaxviSoft\Proyectos\SoftLoteria\bin\roslyn\System.IO.FileSystem.dll
+C:\HemaxviSoft\Proyectos\SoftLoteria\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\HemaxviSoft\Proyectos\SoftLoteria\bin\roslyn\System.Net.Http.dll
+C:\HemaxviSoft\Proyectos\SoftLoteria\bin\roslyn\System.Net.Sockets.dll
+C:\HemaxviSoft\Proyectos\SoftLoteria\bin\roslyn\System.Reflection.Metadata.dll
+C:\HemaxviSoft\Proyectos\SoftLoteria\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\HemaxviSoft\Proyectos\SoftLoteria\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\HemaxviSoft\Proyectos\SoftLoteria\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\HemaxviSoft\Proyectos\SoftLoteria\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\HemaxviSoft\Proyectos\SoftLoteria\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\HemaxviSoft\Proyectos\SoftLoteria\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\HemaxviSoft\Proyectos\SoftLoteria\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\HemaxviSoft\Proyectos\SoftLoteria\bin\roslyn\System.ValueTuple.dll
+C:\HemaxviSoft\Proyectos\SoftLoteria\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\HemaxviSoft\Proyectos\SoftLoteria\bin\roslyn\System.Xml.XmlDocument.dll
+C:\HemaxviSoft\Proyectos\SoftLoteria\bin\roslyn\System.Xml.XPath.dll
+C:\HemaxviSoft\Proyectos\SoftLoteria\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\HemaxviSoft\Proyectos\SoftLoteria\bin\roslyn\vbc.exe
+C:\HemaxviSoft\Proyectos\SoftLoteria\bin\roslyn\vbc.exe.config
+C:\HemaxviSoft\Proyectos\SoftLoteria\bin\roslyn\vbc.rsp
+C:\HemaxviSoft\Proyectos\SoftLoteria\bin\roslyn\VBCSCompiler.exe
+C:\HemaxviSoft\Proyectos\SoftLoteria\bin\roslyn\VBCSCompiler.exe.config
+C:\HemaxviSoft\Proyectos\SoftLoteria\bin\Antlr3.Runtime.dll
+C:\HemaxviSoft\Proyectos\SoftLoteria\bin\MessagingToolkit.QRCode.dll
+C:\HemaxviSoft\Proyectos\SoftLoteria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\HemaxviSoft\Proyectos\SoftLoteria\bin\Microsoft.Web.Infrastructure.dll
+C:\HemaxviSoft\Proyectos\SoftLoteria\bin\Newtonsoft.Json.dll
+C:\HemaxviSoft\Proyectos\SoftLoteria\bin\QRCoder.dll
+C:\HemaxviSoft\Proyectos\SoftLoteria\bin\System.Web.Helpers.dll
+C:\HemaxviSoft\Proyectos\SoftLoteria\bin\System.Web.Mvc.dll
+C:\HemaxviSoft\Proyectos\SoftLoteria\bin\System.Web.Optimization.dll
+C:\HemaxviSoft\Proyectos\SoftLoteria\bin\System.Web.Razor.dll
+C:\HemaxviSoft\Proyectos\SoftLoteria\bin\System.Web.WebPages.Deployment.dll
+C:\HemaxviSoft\Proyectos\SoftLoteria\bin\System.Web.WebPages.dll
+C:\HemaxviSoft\Proyectos\SoftLoteria\bin\System.Web.WebPages.Razor.dll
+C:\HemaxviSoft\Proyectos\SoftLoteria\bin\WebGrease.dll
+C:\HemaxviSoft\Proyectos\SoftLoteria\bin\Antlr3.Runtime.pdb
+C:\HemaxviSoft\Proyectos\SoftLoteria\bin\Newtonsoft.Json.xml
+C:\HemaxviSoft\Proyectos\SoftLoteria\bin\System.Web.Helpers.xml
+C:\HemaxviSoft\Proyectos\SoftLoteria\bin\System.Web.Mvc.xml
+C:\HemaxviSoft\Proyectos\SoftLoteria\bin\System.Web.Optimization.xml
+C:\HemaxviSoft\Proyectos\SoftLoteria\bin\System.Web.Razor.xml
+C:\HemaxviSoft\Proyectos\SoftLoteria\bin\System.Web.WebPages.xml
+C:\HemaxviSoft\Proyectos\SoftLoteria\bin\System.Web.WebPages.Deployment.xml
+C:\HemaxviSoft\Proyectos\SoftLoteria\bin\System.Web.WebPages.Razor.xml
+C:\HemaxviSoft\Proyectos\SoftLoteria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\HemaxviSoft\Proyectos\SoftLoteria\obj\Debug\SoftLoteria.csproj.CoreCompileInputs.cache
+C:\HemaxviSoft\Proyectos\SoftLoteria\obj\Debug\SoftLoteria.csproj.CopyComplete
+C:\HemaxviSoft\Proyectos\SoftLoteria\obj\Debug\SoftLoteria.dll
+C:\HemaxviSoft\Proyectos\SoftLoteria\obj\Debug\SoftLoteria.pdb
+C:\Users\Lenovo\source\Workspaces\SERVER SoftLoteria\SoftLoteria\bin\SoftLoteria.dll.config
+C:\Users\Lenovo\source\Workspaces\SERVER SoftLoteria\SoftLoteria\bin\SoftLoteria.dll
+C:\Users\Lenovo\source\Workspaces\SERVER SoftLoteria\SoftLoteria\bin\SoftLoteria.pdb
+C:\Users\Lenovo\source\Workspaces\SERVER SoftLoteria\SoftLoteria\bin\roslyn\csc.exe
+C:\Users\Lenovo\source\Workspaces\SERVER SoftLoteria\SoftLoteria\bin\roslyn\csc.exe.config
+C:\Users\Lenovo\source\Workspaces\SERVER SoftLoteria\SoftLoteria\bin\roslyn\csc.rsp
+C:\Users\Lenovo\source\Workspaces\SERVER SoftLoteria\SoftLoteria\bin\roslyn\csi.exe
+C:\Users\Lenovo\source\Workspaces\SERVER SoftLoteria\SoftLoteria\bin\roslyn\csi.exe.config
+C:\Users\Lenovo\source\Workspaces\SERVER SoftLoteria\SoftLoteria\bin\roslyn\csi.rsp
+C:\Users\Lenovo\source\Workspaces\SERVER SoftLoteria\SoftLoteria\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lenovo\source\Workspaces\SERVER SoftLoteria\SoftLoteria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lenovo\source\Workspaces\SERVER SoftLoteria\SoftLoteria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lenovo\source\Workspaces\SERVER SoftLoteria\SoftLoteria\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lenovo\source\Workspaces\SERVER SoftLoteria\SoftLoteria\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lenovo\source\Workspaces\SERVER SoftLoteria\SoftLoteria\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lenovo\source\Workspaces\SERVER SoftLoteria\SoftLoteria\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lenovo\source\Workspaces\SERVER SoftLoteria\SoftLoteria\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lenovo\source\Workspaces\SERVER SoftLoteria\SoftLoteria\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lenovo\source\Workspaces\SERVER SoftLoteria\SoftLoteria\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Lenovo\source\Workspaces\SERVER SoftLoteria\SoftLoteria\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lenovo\source\Workspaces\SERVER SoftLoteria\SoftLoteria\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Lenovo\source\Workspaces\SERVER SoftLoteria\SoftLoteria\bin\roslyn\System.AppContext.dll
+C:\Users\Lenovo\source\Workspaces\SERVER SoftLoteria\SoftLoteria\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lenovo\source\Workspaces\SERVER SoftLoteria\SoftLoteria\bin\roslyn\System.Console.dll
+C:\Users\Lenovo\source\Workspaces\SERVER SoftLoteria\SoftLoteria\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lenovo\source\Workspaces\SERVER SoftLoteria\SoftLoteria\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Lenovo\source\Workspaces\SERVER SoftLoteria\SoftLoteria\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lenovo\source\Workspaces\SERVER SoftLoteria\SoftLoteria\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Lenovo\source\Workspaces\SERVER SoftLoteria\SoftLoteria\bin\roslyn\System.IO.Compression.dll
+C:\Users\Lenovo\source\Workspaces\SERVER SoftLoteria\SoftLoteria\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Lenovo\source\Workspaces\SERVER SoftLoteria\SoftLoteria\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lenovo\source\Workspaces\SERVER SoftLoteria\SoftLoteria\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lenovo\source\Workspaces\SERVER SoftLoteria\SoftLoteria\bin\roslyn\System.Net.Http.dll
+C:\Users\Lenovo\source\Workspaces\SERVER SoftLoteria\SoftLoteria\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Lenovo\source\Workspaces\SERVER SoftLoteria\SoftLoteria\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lenovo\source\Workspaces\SERVER SoftLoteria\SoftLoteria\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Lenovo\source\Workspaces\SERVER SoftLoteria\SoftLoteria\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Lenovo\source\Workspaces\SERVER SoftLoteria\SoftLoteria\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Lenovo\source\Workspaces\SERVER SoftLoteria\SoftLoteria\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Lenovo\source\Workspaces\SERVER SoftLoteria\SoftLoteria\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Lenovo\source\Workspaces\SERVER SoftLoteria\SoftLoteria\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Lenovo\source\Workspaces\SERVER SoftLoteria\SoftLoteria\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Lenovo\source\Workspaces\SERVER SoftLoteria\SoftLoteria\bin\roslyn\System.ValueTuple.dll
+C:\Users\Lenovo\source\Workspaces\SERVER SoftLoteria\SoftLoteria\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Lenovo\source\Workspaces\SERVER SoftLoteria\SoftLoteria\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Lenovo\source\Workspaces\SERVER SoftLoteria\SoftLoteria\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Lenovo\source\Workspaces\SERVER SoftLoteria\SoftLoteria\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Lenovo\source\Workspaces\SERVER SoftLoteria\SoftLoteria\bin\roslyn\vbc.exe
+C:\Users\Lenovo\source\Workspaces\SERVER SoftLoteria\SoftLoteria\bin\roslyn\vbc.exe.config
+C:\Users\Lenovo\source\Workspaces\SERVER SoftLoteria\SoftLoteria\bin\roslyn\vbc.rsp
+C:\Users\Lenovo\source\Workspaces\SERVER SoftLoteria\SoftLoteria\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lenovo\source\Workspaces\SERVER SoftLoteria\SoftLoteria\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lenovo\source\Workspaces\SERVER SoftLoteria\SoftLoteria\bin\Antlr3.Runtime.dll
+C:\Users\Lenovo\source\Workspaces\SERVER SoftLoteria\SoftLoteria\bin\MessagingToolkit.QRCode.dll
+C:\Users\Lenovo\source\Workspaces\SERVER SoftLoteria\SoftLoteria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lenovo\source\Workspaces\SERVER SoftLoteria\SoftLoteria\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lenovo\source\Workspaces\SERVER SoftLoteria\SoftLoteria\bin\Newtonsoft.Json.dll
+C:\Users\Lenovo\source\Workspaces\SERVER SoftLoteria\SoftLoteria\bin\QRCoder.dll
+C:\Users\Lenovo\source\Workspaces\SERVER SoftLoteria\SoftLoteria\bin\System.Web.Helpers.dll
+C:\Users\Lenovo\source\Workspaces\SERVER SoftLoteria\SoftLoteria\bin\System.Web.Mvc.dll
+C:\Users\Lenovo\source\Workspaces\SERVER SoftLoteria\SoftLoteria\bin\System.Web.Optimization.dll
+C:\Users\Lenovo\source\Workspaces\SERVER SoftLoteria\SoftLoteria\bin\System.Web.Razor.dll
+C:\Users\Lenovo\source\Workspaces\SERVER SoftLoteria\SoftLoteria\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Lenovo\source\Workspaces\SERVER SoftLoteria\SoftLoteria\bin\System.Web.WebPages.dll
+C:\Users\Lenovo\source\Workspaces\SERVER SoftLoteria\SoftLoteria\bin\System.Web.WebPages.Razor.dll
+C:\Users\Lenovo\source\Workspaces\SERVER SoftLoteria\SoftLoteria\bin\WebGrease.dll
+C:\Users\Lenovo\source\Workspaces\SERVER SoftLoteria\SoftLoteria\bin\Antlr3.Runtime.pdb
+C:\Users\Lenovo\source\Workspaces\SERVER SoftLoteria\SoftLoteria\bin\Newtonsoft.Json.xml
+C:\Users\Lenovo\source\Workspaces\SERVER SoftLoteria\SoftLoteria\bin\System.Web.Helpers.xml
+C:\Users\Lenovo\source\Workspaces\SERVER SoftLoteria\SoftLoteria\bin\System.Web.Mvc.xml
+C:\Users\Lenovo\source\Workspaces\SERVER SoftLoteria\SoftLoteria\bin\System.Web.Optimization.xml
+C:\Users\Lenovo\source\Workspaces\SERVER SoftLoteria\SoftLoteria\bin\System.Web.Razor.xml
+C:\Users\Lenovo\source\Workspaces\SERVER SoftLoteria\SoftLoteria\bin\System.Web.WebPages.xml
+C:\Users\Lenovo\source\Workspaces\SERVER SoftLoteria\SoftLoteria\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Lenovo\source\Workspaces\SERVER SoftLoteria\SoftLoteria\bin\System.Web.WebPages.Razor.xml
+C:\Users\Lenovo\source\Workspaces\SERVER SoftLoteria\SoftLoteria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lenovo\source\Workspaces\SERVER SoftLoteria\SoftLoteria\obj\Debug\SoftLoteria.csproj.CopyComplete
+C:\Users\Lenovo\source\Workspaces\SERVER SoftLoteria\SoftLoteria\obj\Debug\SoftLoteria.dll
+C:\Users\Lenovo\source\Workspaces\SERVER SoftLoteria\SoftLoteria\obj\Debug\SoftLoteria.pdb
+C:\HemaxviSoft\Proyectos\SVN\softbanking\bin\SoftLoteria.dll.config
+C:\HemaxviSoft\Proyectos\SVN\softbanking\bin\SoftLoteria.dll
+C:\HemaxviSoft\Proyectos\SVN\softbanking\bin\SoftLoteria.pdb
+C:\HemaxviSoft\Proyectos\SVN\softbanking\bin\roslyn\csc.exe
+C:\HemaxviSoft\Proyectos\SVN\softbanking\bin\roslyn\csc.exe.config
+C:\HemaxviSoft\Proyectos\SVN\softbanking\bin\roslyn\csc.rsp
+C:\HemaxviSoft\Proyectos\SVN\softbanking\bin\roslyn\csi.exe
+C:\HemaxviSoft\Proyectos\SVN\softbanking\bin\roslyn\csi.exe.config
+C:\HemaxviSoft\Proyectos\SVN\softbanking\bin\roslyn\csi.rsp
+C:\HemaxviSoft\Proyectos\SVN\softbanking\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\HemaxviSoft\Proyectos\SVN\softbanking\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\HemaxviSoft\Proyectos\SVN\softbanking\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\HemaxviSoft\Proyectos\SVN\softbanking\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\HemaxviSoft\Proyectos\SVN\softbanking\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\HemaxviSoft\Proyectos\SVN\softbanking\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\HemaxviSoft\Proyectos\SVN\softbanking\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\HemaxviSoft\Proyectos\SVN\softbanking\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\HemaxviSoft\Proyectos\SVN\softbanking\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\HemaxviSoft\Proyectos\SVN\softbanking\bin\roslyn\Microsoft.Managed.Core.targets
+C:\HemaxviSoft\Proyectos\SVN\softbanking\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\HemaxviSoft\Proyectos\SVN\softbanking\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\HemaxviSoft\Proyectos\SVN\softbanking\bin\roslyn\System.AppContext.dll
+C:\HemaxviSoft\Proyectos\SVN\softbanking\bin\roslyn\System.Collections.Immutable.dll
+C:\HemaxviSoft\Proyectos\SVN\softbanking\bin\roslyn\System.Console.dll
+C:\HemaxviSoft\Proyectos\SVN\softbanking\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\HemaxviSoft\Proyectos\SVN\softbanking\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\HemaxviSoft\Proyectos\SVN\softbanking\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\HemaxviSoft\Proyectos\SVN\softbanking\bin\roslyn\System.Globalization.Calendars.dll
+C:\HemaxviSoft\Proyectos\SVN\softbanking\bin\roslyn\System.IO.Compression.dll
+C:\HemaxviSoft\Proyectos\SVN\softbanking\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\HemaxviSoft\Proyectos\SVN\softbanking\bin\roslyn\System.IO.FileSystem.dll
+C:\HemaxviSoft\Proyectos\SVN\softbanking\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\HemaxviSoft\Proyectos\SVN\softbanking\bin\roslyn\System.Net.Http.dll
+C:\HemaxviSoft\Proyectos\SVN\softbanking\bin\roslyn\System.Net.Sockets.dll
+C:\HemaxviSoft\Proyectos\SVN\softbanking\bin\roslyn\System.Reflection.Metadata.dll
+C:\HemaxviSoft\Proyectos\SVN\softbanking\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\HemaxviSoft\Proyectos\SVN\softbanking\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\HemaxviSoft\Proyectos\SVN\softbanking\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\HemaxviSoft\Proyectos\SVN\softbanking\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\HemaxviSoft\Proyectos\SVN\softbanking\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\HemaxviSoft\Proyectos\SVN\softbanking\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\HemaxviSoft\Proyectos\SVN\softbanking\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\HemaxviSoft\Proyectos\SVN\softbanking\bin\roslyn\System.ValueTuple.dll
+C:\HemaxviSoft\Proyectos\SVN\softbanking\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\HemaxviSoft\Proyectos\SVN\softbanking\bin\roslyn\System.Xml.XmlDocument.dll
+C:\HemaxviSoft\Proyectos\SVN\softbanking\bin\roslyn\System.Xml.XPath.dll
+C:\HemaxviSoft\Proyectos\SVN\softbanking\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\HemaxviSoft\Proyectos\SVN\softbanking\bin\roslyn\vbc.exe
+C:\HemaxviSoft\Proyectos\SVN\softbanking\bin\roslyn\vbc.exe.config
+C:\HemaxviSoft\Proyectos\SVN\softbanking\bin\roslyn\vbc.rsp
+C:\HemaxviSoft\Proyectos\SVN\softbanking\bin\roslyn\VBCSCompiler.exe
+C:\HemaxviSoft\Proyectos\SVN\softbanking\bin\roslyn\VBCSCompiler.exe.config
+C:\HemaxviSoft\Proyectos\SVN\softbanking\bin\Antlr3.Runtime.dll
+C:\HemaxviSoft\Proyectos\SVN\softbanking\bin\MessagingToolkit.QRCode.dll
+C:\HemaxviSoft\Proyectos\SVN\softbanking\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\HemaxviSoft\Proyectos\SVN\softbanking\bin\Microsoft.Web.Infrastructure.dll
+C:\HemaxviSoft\Proyectos\SVN\softbanking\bin\Newtonsoft.Json.dll
+C:\HemaxviSoft\Proyectos\SVN\softbanking\bin\QRCoder.dll
+C:\HemaxviSoft\Proyectos\SVN\softbanking\bin\System.Web.Helpers.dll
+C:\HemaxviSoft\Proyectos\SVN\softbanking\bin\System.Web.Mvc.dll
+C:\HemaxviSoft\Proyectos\SVN\softbanking\bin\System.Web.Optimization.dll
+C:\HemaxviSoft\Proyectos\SVN\softbanking\bin\System.Web.Razor.dll
+C:\HemaxviSoft\Proyectos\SVN\softbanking\bin\System.Web.WebPages.Deployment.dll
+C:\HemaxviSoft\Proyectos\SVN\softbanking\bin\System.Web.WebPages.dll
+C:\HemaxviSoft\Proyectos\SVN\softbanking\bin\System.Web.WebPages.Razor.dll
+C:\HemaxviSoft\Proyectos\SVN\softbanking\bin\WebGrease.dll
+C:\HemaxviSoft\Proyectos\SVN\softbanking\bin\Antlr3.Runtime.pdb
+C:\HemaxviSoft\Proyectos\SVN\softbanking\bin\Newtonsoft.Json.xml
+C:\HemaxviSoft\Proyectos\SVN\softbanking\bin\System.Web.Helpers.xml
+C:\HemaxviSoft\Proyectos\SVN\softbanking\bin\System.Web.Mvc.xml
+C:\HemaxviSoft\Proyectos\SVN\softbanking\bin\System.Web.Optimization.xml
+C:\HemaxviSoft\Proyectos\SVN\softbanking\bin\System.Web.Razor.xml
+C:\HemaxviSoft\Proyectos\SVN\softbanking\bin\System.Web.WebPages.xml
+C:\HemaxviSoft\Proyectos\SVN\softbanking\bin\System.Web.WebPages.Deployment.xml
+C:\HemaxviSoft\Proyectos\SVN\softbanking\bin\System.Web.WebPages.Razor.xml
+C:\HemaxviSoft\Proyectos\SVN\softbanking\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\HemaxviSoft\Proyectos\SVN\softbanking\obj\Debug\SoftLoteria.csproj.CoreCompileInputs.cache
+C:\HemaxviSoft\Proyectos\SVN\softbanking\obj\Debug\SoftLoteria.csproj.CopyComplete
+C:\HemaxviSoft\Proyectos\SVN\softbanking\obj\Debug\SoftLoteria.dll
+C:\HemaxviSoft\Proyectos\SVN\softbanking\obj\Debug\SoftLoteria.pdb
+C:\HemaxviSoft\Proyectos\SVN\softbanking\obj\Debug\SoftLoteria.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\Workspaces\SERVER SoftLoteria\SoftLoteria\obj\Debug\SoftLoteria.csprojAssemblyReference.cache
